@@ -14,7 +14,6 @@
  
  🌱 I’m currently learning **React,Firebase,NodeJs**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
